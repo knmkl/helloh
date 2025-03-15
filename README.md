@@ -1,8 +1,8 @@
 # helloh
- 👋, I'm Buynhishggg ;*
+#👋, I'm Buynhishggg ;*
 
-https://i.imgur.com/lHL4Xy0.gif
+#https://i.imgur.com/lHL4Xy0.gif
 
 
-- 📍 Based in **Mongolia**
+#- 📍 Based in **Mongolia**
 
