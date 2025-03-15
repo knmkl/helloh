@@ -1,7 +1,5 @@
-# helloh, 👋, I'm Buynhishggg ;*
+# Helloh 👋, I'm Buynhishggg ;*
 
-!(https://i.imgur.com/lHL4Xy0.gif)
-
+![Cool GIF](https://i.imgur.com/lHL4Xy0.gif)
 
 - 📍 Based in **Mongolia**
-
